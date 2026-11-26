@@ -1,0 +1,417 @@
+[
+  {
+    "slug": "pocha",
+    "name": "日本茶カフェ pocha",
+    "logo": "pocha",
+    "sub": "日本茶と、ひと休み。",
+    "place": "札幌・山鼻",
+    "region": "SAPPORO, HOKKAIDO",
+    "category": "tea",
+    "theme": "pocha",
+    "layout": "split",
+    "hero": "tea",
+    "secondary": "cookies",
+    "headline": "お茶をいれて、<br>心をほどく。",
+    "lead": "一煎ずつ変わる香り。甘いものを、少し。<br>いつもの一日に、日本茶のある余白を。",
+    "storyTitle": "お茶のこと、<br>ゆっくり話しませんか。",
+    "story": "日本茶インストラクターと、飲食の経験を重ねた夫婦が営む日本茶カフェ。農家から仕入れた茶葉の個性を、一杯ずつ楽しめる場所です。",
+    "story2": "煎茶をじっくり味わったり、お茶に合う甘味を選んだり。札幌・山鼻で、急がない時間を過ごしてみませんか。",
+    "menuTitle": "お茶と楽しむ、あれこれ。",
+    "items": [
+      [
+        "日本茶",
+        "煎茶をはじめ、その日の気分に合わせたお茶を。"
+      ],
+      [
+        "甘味",
+        "ほうじ茶チーズケーキなど、お茶と一緒に。"
+      ],
+      [
+        "お食事",
+        "和風まぜそばで、ランチにもお茶の楽しみを。"
+      ]
+    ],
+    "featureTitle": "家族の時間にも。",
+    "feature": "店内にはキッズスペース。お子さまと一緒の日にも、お茶の時間を。",
+    "address": "北海道札幌市中央区南25条西13丁目1-31 J&Hマンション1F",
+    "hours": "10:00–19:00",
+    "closed": "不定休",
+    "access": "市電「電車事業所前」停留場から徒歩約7分。駐車場2台。",
+    "ig": "nihonchacafe_pocha",
+    "sources": [
+      [
+        "poroco",
+        "https://www.poroco.co.jp/newsreport/4106/"
+      ]
+    ]
+  },
+  {
+    "slug": "collage-co",
+    "name": "Collage.Co",
+    "logo": "Collage.Co",
+    "sub": "PÂTISSERIE & WINE",
+    "place": "名古屋・桜山",
+    "region": "SAKURAYAMA, NAGOYA",
+    "category": "sweets",
+    "theme": "collage",
+    "layout": "editorial",
+    "hero": "cookies",
+    "secondary": "wine",
+    "headline": "甘い余韻に、<br>もう一杯。",
+    "lead": "焼き菓子とワイン。<br>好きなものを重ねる、桜山のひととき。",
+    "storyTitle": "午後から夜へ、<br>気ままに。",
+    "story": "名古屋・桜山のビルの2階にあるCollage.Co。焼き菓子を楽しむ午後も、ワインを選ぶ時間も。ひとつの場所で、いくつもの過ごし方を。",
+    "story2": "大切な人と話したい日にも、ひとりでゆっくりしたい日にも。お菓子と一杯の組み合わせを、見つけてみてください。",
+    "menuTitle": "お菓子とワインの時間。",
+    "items": [
+      [
+        "焼き菓子",
+        "少しずつ選んで、好きな味を見つける楽しみ。"
+      ],
+      [
+        "ワイン",
+        "甘いものにも、ゆっくり語らう時間にも。"
+      ],
+      [
+        "お持ち帰り",
+        "今日の余韻を、おうちでも。"
+      ]
+    ],
+    "featureTitle": "桜山の、2階へ。",
+    "feature": "午後に立ち寄るカフェとしても、夜の一杯にも。ご予約や最新のメニューは、お店の案内をご確認ください。",
+    "address": "愛知県名古屋市昭和区桜山町5-95-95 フラワービル2F",
+    "hours": "14:00–22:00（L.O.21:30）",
+    "closed": "水曜日",
+    "access": "地下鉄「桜山駅」から徒歩約4分。",
+    "ig": "collage_co_",
+    "reservation": "https://tabelog.com/aichi/A2301/A230108/23097926/",
+    "sources": [
+      [
+        "食べログ 店舗掲載情報",
+        "https://tabelog.com/aichi/A2301/A230108/23097926/"
+      ]
+    ]
+  },
+  {
+    "slug": "noon",
+    "name": "NOÖN Coffee & Lifestyle",
+    "logo": "NOÖN",
+    "sub": "Coffee & Lifestyle",
+    "place": "滋賀・守山",
+    "region": "MORIYAMA, SHIGA",
+    "category": "coffee",
+    "theme": "noon",
+    "layout": "poster",
+    "hero": "table",
+    "secondary": "latte",
+    "headline": "一杯から、<br>暮らしが広がる。",
+    "lead": "コーヒーを飲む。器にふれる。<br>守山で見つける、日々の好きなもの。",
+    "storyTitle": "コーヒーも、器も。<br>毎日を楽しむために。",
+    "story": "NOÖN Coffee & Lifestyleは、コーヒーや食事とともに、テーブルウェアとの出会いも楽しめる場所。飲む時間と、暮らしに持ち帰る楽しみをつなぎます。",
+    "story2": "朝・昼・夕方をイメージした3種類のオリジナルブレンド。時間や気分に合わせて、一杯を選んで。",
+    "menuTitle": "好きなものが、そろう場所。",
+    "items": [
+      [
+        "Coffee & Tea",
+        "時間に合わせたブレンドコーヒーや紅茶。"
+      ],
+      [
+        "Food & Bakes",
+        "クロワッサン、キッシュ、マフィンなど。"
+      ],
+      [
+        "Tableware",
+        "KEVALAと制作したオリジナルテーブルウェア。"
+      ]
+    ],
+    "featureTitle": "いつもの景色に、<br>小さな出会いを。",
+    "feature": "カフェで過ごす時間も、器を選ぶ時間も。気持ちよい日常のきっかけを探しに。",
+    "address": "滋賀県守山市荒見町260-1",
+    "hours": "7:00–20:00",
+    "closed": "最新の営業日はInstagramへ",
+    "access": "お車でのアクセスや最新の案内は、お店のInstagramをご確認ください。",
+    "ig": "noon_coffeelifestyle",
+    "sources": [
+      [
+        "Info滋賀",
+        "https://info-shiga.com/open-close/opening/900153/"
+      ]
+    ]
+  },
+  {
+    "slug": "tori",
+    "name": "cafe & Ice Cream TORI.",
+    "logo": "TORI.",
+    "sub": "CAFE & ICE CREAM",
+    "place": "千葉・千葉神社前",
+    "region": "CHIBA SHRINE, CHIBA",
+    "category": "sweets",
+    "theme": "tori",
+    "layout": "split",
+    "hero": "icecream",
+    "secondary": "table",
+    "headline": "お参りのあと、<br>甘い寄り道。",
+    "lead": "ひと口のソフトクリームと、ひと休み。<br>千葉神社の目の前で、お待ちしています。",
+    "storyTitle": "今日の寄り道が、<br>いい思い出に。",
+    "story": "千葉神社前のcafe & Ice Cream TORI.。鳥居型のクッキーを添えたバニラソフトを目印に、街歩きの途中で立ち寄れるカフェです。",
+    "story2": "カウンター、テーブル、和室。過ごし方に合わせて、ほっとできる場所を。テイクアウトも楽しめます。",
+    "menuTitle": "ひんやり、おいしいひと休み。",
+    "items": [
+      [
+        "ソフトクリーム",
+        "鳥居型クッキーを添えた、看板のバニラソフト。"
+      ],
+      [
+        "カフェの時間",
+        "店内でゆっくり、おしゃべりのひとときを。"
+      ],
+      [
+        "テイクアウト",
+        "全メニューお持ち帰り可能。街歩きのおともに。"
+      ]
+    ],
+    "featureTitle": "和室で、ひと息。",
+    "feature": "参拝のあとも、いつものお散歩の日も。店内の席やDOGSTAYの利用については、お店へご確認ください。",
+    "address": "千葉県千葉市中央区中央1-6-1 MOMOビル1F",
+    "hours": null,
+    "closed": "営業日・営業時間はInstagramへ",
+    "access": "千葉神社の目の前。",
+    "ig": "cafeice.tori",
+    "sources": [
+      [
+        "まいぷれ千葉",
+        "https://midori-chiba.mypl.net/article/newopen_chiba/113484"
+      ]
+    ]
+  },
+  {
+    "slug": "yoca",
+    "name": "cafe yoca",
+    "logo": "yoca",
+    "sub": "SPECIALTY COFFEE & A LITTLE REST",
+    "place": "東京・武蔵境",
+    "region": "MUSASHISAKAI, TOKYO",
+    "category": "coffee",
+    "theme": "yoca",
+    "layout": "overlay",
+    "hero": "latte",
+    "secondary": "coffee",
+    "headline": "一杯ぶんの、<br>余白を。",
+    "lead": "ふらりと寄って、コーヒーを。<br>武蔵境で、あなたのペースに戻る時間。",
+    "storyTitle": "いつもの街に、<br>お気に入りの一杯を。",
+    "story": "KANEYOからcafe yocaへ。武蔵境で、スペシャルティコーヒーを中心に、お菓子と一緒に楽しめるカフェとして新しく歩み始めました。",
+    "story2": "じっくり淹れるハンドドリップも、軽やかなエスプレッソの一杯も。その日の気分で選んでみてください。",
+    "menuTitle": "その日の気分で。",
+    "items": [
+      [
+        "Hand drip",
+        "豆の個性を感じる、ハンドドリップコーヒー。"
+      ],
+      [
+        "Espresso",
+        "エスプレッソを使ったドリンク。デカフェの案内も。"
+      ],
+      [
+        "Something sweet",
+        "コーヒーに添えるお菓子。全品テイクアウトも。"
+      ]
+    ],
+    "featureTitle": "ここでも。<br>お持ち帰りでも。",
+    "feature": "お散歩のおともに、仕事の合間に。日常のすぐそばで、コーヒーの時間を。",
+    "address": "東京都武蔵野市境2-11-2",
+    "hours": "8:00–18:00",
+    "closed": "水曜日",
+    "access": "武蔵境エリア。詳しい道順は地図をご覧ください。",
+    "ig": "cafe_yoca_musashisakai",
+    "sources": [
+      [
+        "むーなび",
+        "https://mu-navi.com/cafe-yoca/"
+      ]
+    ]
+  },
+  {
+    "slug": "aioi-coffee",
+    "name": "AIOI COFFEE",
+    "logo": "AIOI",
+    "sub": "COFFEE & BAKES",
+    "place": "宮城・仙台 榴岡",
+    "region": "TSUTSUJIGAOKA, SENDAI",
+    "category": "coffee",
+    "theme": "aioi",
+    "layout": "split",
+    "hero": "coffee",
+    "secondary": "cookies",
+    "headline": "コーヒーと、<br>日々を重ねる。",
+    "lead": "焙煎する人と、焼き菓子をつくる人。<br>仙台・榴岡から届ける、ふたつのおいしさ。",
+    "storyTitle": "ふたつの手から、<br>ひとつの場所へ。",
+    "story": "夫婦ふたりで営む、小さなコーヒーと焼き菓子のお店。AIOI COFFEEでは、産地それぞれの味わいを感じるコーヒーと、素材を生かしたお菓子を楽しめます。",
+    "story2": "一杯を飲む時間も、家で淹れる豆を選ぶ時間も。暮らしのそばに、コーヒーの楽しみを。",
+    "menuTitle": "一杯と、ひとつ。",
+    "items": [
+      [
+        "Coffee",
+        "産地ごとの個性を味わう、自家焙煎のコーヒー。"
+      ],
+      [
+        "Bakes",
+        "素材の味を大切にした焼き菓子。"
+      ],
+      [
+        "Coffee beans",
+        "おうちのコーヒー時間に。豆の販売も。"
+      ]
+    ],
+    "featureTitle": "この街で、<br>ひと息つける場所に。",
+    "feature": "人と人が出会う、一杯のコーヒーから。仙台・榴岡で、ふだんの日に立ち寄れる場所を。",
+    "address": "宮城県仙台市宮城野区榴岡5丁目1-8 コーポ渡辺103",
+    "hours": "11:00–18:00",
+    "closed": "不定休",
+    "access": "仙台・榴岡エリア。営業日はInstagramをご確認ください。",
+    "ig": "aioi_coffee",
+    "sources": [
+      [
+        "COFFEE OTAKU",
+        "https://coffee-otaku.com/archives/27254"
+      ]
+    ]
+  },
+  {
+    "slug": "cosajiichi",
+    "name": "喫茶 こさじいち",
+    "logo": "こさじいち",
+    "sub": "ごはんと珈琲と、おやつ。",
+    "place": "福岡・笹丘",
+    "region": "SASAOKA, FUKUOKA",
+    "category": "meal",
+    "theme": "cosaji",
+    "layout": "editorial",
+    "hero": "toast",
+    "secondary": "cookies",
+    "headline": "ごはんのあとも、<br>もう少し。",
+    "lead": "ちゃんと食べて、ほっとひと息。<br>笹丘の小さな喫茶店で、気ままな時間を。",
+    "storyTitle": "おなかも、心も。<br>ゆっくり満たす。",
+    "story": "笹丘名店街の一角にある、夫婦が営む小さな喫茶店。アンティーク家具のある落ち着いた空間で、ごはんとコーヒー、おやつを楽しめます。",
+    "story2": "10席の空間で、いつもの日にもひと休みを。ひとりの時間も、誰かと話す時間も、思い思いに。",
+    "menuTitle": "食べたい気持ちに、素直に。",
+    "items": [
+      [
+        "お昼ごはん",
+        "デリプレートやカレーなど、お食事の時間に。"
+      ],
+      [
+        "おやつ",
+        "チーズケーキ、バナナブレッド、コーヒーゼリー。"
+      ],
+      [
+        "珈琲",
+        "食事のあとにも、おやつと一緒にも。"
+      ]
+    ],
+    "featureTitle": "いつもの街の、<br>小さな喫茶室。",
+    "feature": "ごはんだけの日も、おやつの日も。肩の力を抜いて過ごす、笹丘のひととき。",
+    "address": "福岡県福岡市中央区笹丘1-35-19",
+    "hours": "9:00–16:00",
+    "closed": "最新の営業日はInstagramへ",
+    "access": "笹丘名店街の一角。",
+    "ig": "cosajichi",
+    "sources": [
+      [
+        "天神経済新聞",
+        "https://tenjin.keizai.biz/headline/8427/"
+      ]
+    ]
+  },
+  {
+    "slug": "fourth-avenue",
+    "name": "the Fourth Avenue Cafe&Bar",
+    "logo": "the Fourth<br>Avenue",
+    "sub": "CAFE & BAR / KYOTO",
+    "place": "京都・桂",
+    "region": "KATSURA, KYOTO",
+    "category": "bar",
+    "theme": "fourth",
+    "layout": "overlay",
+    "hero": "wine",
+    "secondary": "interior",
+    "headline": "昼の気ままと、<br>夜の余韻。",
+    "lead": "ランチ、コーヒー、ときどき一杯。<br>あなたの一日に、もうひとつの居場所を。",
+    "storyTitle": "カフェから、バーへ。<br>時間を、楽しむ。",
+    "story": "京都・桂のthe Fourth Avenue Cafe&Bar。昼はカフェとして、夜はバーとして。食事やお酒を、その日の過ごし方に合わせて楽しめる場所です。",
+    "story2": "家族と過ごす日にも、愛犬との時間にも。キッズスペースや犬同伴の案内は、ご利用前にお店へご確認ください。",
+    "menuTitle": "お昼から、夜の一杯まで。",
+    "items": [
+      [
+        "Food",
+        "松阪牛入りハンバーグ、スパイスカレー、ボロネーゼ。"
+      ],
+      [
+        "Cafe",
+        "ワッフルとコーヒーで、午後のひと休み。"
+      ],
+      [
+        "Bar",
+        "一日の終わりに、アルコールを楽しむ時間を。"
+      ]
+    ],
+    "featureTitle": "いろんな一日が、<br>集まる場所。",
+    "feature": "食事、おしゃべり、いつもの一杯。カフェとバー、それぞれの表情でお待ちしています。",
+    "address": "京都府京都市西京区桂徳大寺北町123",
+    "hours": null,
+    "closed": "営業日・昼夜の時間はInstagramへ",
+    "access": "記事では駐車場5台の案内あり。ご利用条件はお店へご確認ください。",
+    "ig": "thefourthavenuecafe91",
+    "sources": [
+      [
+        "関西ニューオープン情報",
+        "https://kansai-kaiten.com/thefourthavenuecafe-kyotokatsura2610/"
+      ]
+    ]
+  },
+  {
+    "slug": "eggplant",
+    "name": "EGGPLANT CAFE",
+    "logo": "eggplant",
+    "sub": "HOT SANDWICH & COFFEE",
+    "place": "千葉・鎌ケ谷",
+    "region": "KAMAGAYA, CHIBA",
+    "category": "meal",
+    "theme": "eggplant",
+    "layout": "split",
+    "hero": "sandwich",
+    "secondary": "table",
+    "headline": "小さな小屋で、<br>あつあつを。",
+    "lead": "公園のそばで、ホットサンドをひとつ。<br>いつものお散歩に、おいしい寄り道を。",
+    "storyTitle": "家族でつくった、<br>小さなカフェ。",
+    "story": "鎌ケ谷・貝柄山公園の近く。家族で手作りしたログ小屋が、EGGPLANT CAFEです。焼きたてのホットサンドを中心に、気軽に立ち寄れる時間を。",
+    "story2": "店内の小さな席でひと息つく日も、ペットと一緒に庭席で過ごす日も。公園の帰り道に、ふらりとどうぞ。",
+    "menuTitle": "かりっと、あつあつ。",
+    "items": [
+      [
+        "Hot sandwich",
+        "お店の中心となる、焼きたてのホットサンド。"
+      ],
+      [
+        "ナスベーコン",
+        "記事で人気と紹介された、おすすめの組み合わせ。"
+      ],
+      [
+        "庭でひと休み",
+        "ペットと一緒に過ごせる庭席も。"
+      ]
+    ],
+    "featureTitle": "お散歩の先に、<br>ひと口の楽しみ。",
+    "feature": "大きな目的がなくても、今日は少し寄り道を。小さなログ小屋で、あたたかい時間を。",
+    "address": "千葉県鎌ケ谷市富岡3丁目22-7",
+    "hours": null,
+    "closed": "営業日・営業時間はInstagramへ",
+    "access": "貝柄山公園の近く。庭席はペット同伴可。",
+    "ig": "eggplantcafe_",
+    "sources": [
+      [
+        "まいぷれ鎌ケ谷",
+        "https://kamagaya.mypl.net/article/newopen_kamagaya/113577"
+      ]
+    ]
+  }
+]
