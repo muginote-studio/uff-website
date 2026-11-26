@@ -1,0 +1,15 @@
+name: Presentation checks
+on:
+  push:
+    branches: [main]
+  pull_request:
+permissions:
+  contents: read
+jobs:
+  presentation:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Check icons, SVGs and local references
+        run: python3 scripts/check_presentation.py
+
